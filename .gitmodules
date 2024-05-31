@@ -1,0 +1,3 @@
+[submodule "Mybuilding"]
+	path = Mybuilding
+	url = git@github.com:EEmma007/Mybuilding.git
